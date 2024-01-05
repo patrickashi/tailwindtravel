@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/your-tailwindtravel/static/css/main.238c9bc6.css",
-    "main.js": "/your-tailwindtravel/static/js/main.0e3dbde5.js",
-    "static/media/beachVid.mp4": "/your-tailwindtravel/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/keywest.jpg": "/your-tailwindtravel/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/your-tailwindtravel/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/your-tailwindtravel/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/your-tailwindtravel/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/your-tailwindtravel/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "static/media/maldives3.jpg": "/your-tailwindtravel/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
-    "index.html": "/your-tailwindtravel/index.html",
-    "main.238c9bc6.css.map": "/your-tailwindtravel/static/css/main.238c9bc6.css.map",
-    "main.0e3dbde5.js.map": "/your-tailwindtravel/static/js/main.0e3dbde5.js.map"
+    "main.css": "/tailwindtravel/static/css/main.238c9bc6.css",
+    "main.js": "/tailwindtravel/static/js/main.08cce5cd.js",
+    "static/media/beachVid.mp4": "/tailwindtravel/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/tailwindtravel/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/tailwindtravel/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/tailwindtravel/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/tailwindtravel/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/tailwindtravel/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/tailwindtravel/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/tailwindtravel/index.html",
+    "main.238c9bc6.css.map": "/tailwindtravel/static/css/main.238c9bc6.css.map",
+    "main.08cce5cd.js.map": "/tailwindtravel/static/js/main.08cce5cd.js.map"
   },
   "entrypoints": [
     "static/css/main.238c9bc6.css",
-    "static/js/main.0e3dbde5.js"
+    "static/js/main.08cce5cd.js"
   ]
 }
